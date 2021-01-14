@@ -1,0 +1,24 @@
+.sizing{
+    height: 65%;
+    width: 65%;
+
+}
+.bg-color{
+    background-color: antiquewhite;
+}
+.half-width{
+    height: 400px;
+    width: 400px;
+
+}
+.image-size{
+    height: auto;
+    width: 200px;
+
+}
+
+.image-sizing{
+    height: 300px;
+    width: 300px;
+
+}
